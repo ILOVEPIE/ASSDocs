@@ -25,7 +25,7 @@ What is SubStation Alpha Subtitles?
 Advanced SubStation Alpha Subtitles
 -----------------------------------
 What is Advanced SubStation Alpha Subtitles?
-    Advanced SubStation Alpha Subtitles is a non-strict superset of SSA that extends it's styling capabilities with special style-overrides and additional styling features.
+    Advanced SubStation Alpha Subtitles is a non-strict superset of SSA that extends its styling capabilities with special style-overrides and additional styling features.
     Advanced SubStation Alpha files are given the extension ``.ass`` and are frequently referred to as ASS (**A**\ dvanced **S**\ ub\ **S**\ tation Alpha) files.
     ASS is more common that SSA and is actively used by some professional streaming sites including Crunchyroll_.
 
