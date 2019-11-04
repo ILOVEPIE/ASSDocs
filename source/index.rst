@@ -2,9 +2,11 @@ ASSDocs
 =======
 
 .. toctree::
-   :maxdepth: 2
+   :hidden:
+   :maxdepth: 3
+   :glob:
 
-   general/index
+   general/*
 
 
 
