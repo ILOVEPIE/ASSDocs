@@ -2,8 +2,12 @@ ASSDocs
 =======
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
-   :caption: Contents:
+   :glob:
+
+   general/*
+
 
 
 SubStation Alpha Subtitles
